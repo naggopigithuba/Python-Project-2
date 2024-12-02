@@ -3,11 +3,11 @@ This project implements a Random Password Generator using Python. The generator 
 
 
 # Technologies Used :
-1. Pyhton
+1. # Pyhton
 The primary programming language for the project. Python is chosen due to its simplicity, ease of use, and the availability of libraries for generating random strings.
-2. random module
+2. # random module
 A built-in Python module used for generating random numbers and selecting random characters from predefined sets. This is essential for ensuring the randomness of the generated passwords.
-3. string module
+3. # string module
 A Python standard library that provides a set of string constants like ASCII letters, digits, and punctuation characters, which are used to form the pool of characters for the password.
 
 
